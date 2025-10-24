@@ -1,0 +1,4 @@
+bundle:
+  name: databricks-etl-bundle
+  description: Sample Databricks bundle for an ETL job
+  version: 1.0.0

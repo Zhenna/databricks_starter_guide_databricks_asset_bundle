@@ -1,0 +1,4 @@
+environment:
+  workspace:
+    host: https://<your-dev-workspace>.cloud.databricks.com
+    root_path: /Repos/you@company.com/databricks-job-template
